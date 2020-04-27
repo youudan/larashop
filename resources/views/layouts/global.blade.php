@@ -12,8 +12,8 @@
     <link rel="icon" type="image/png" href="" />
     <link rel="apple-touch-icon" href="">
 
-    <link rel="stylesheet" href="{{ asset('polished/polished.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('polished/iconic/css/open-iconic-bootstrap.min.css') }}">
+    <link rel="stylesheet" href="/polished/polished.min.css">
+    <link rel="stylesheet" href="/polished/iconic/css/open-iconic-bootstrap.min.css">
     <style>
         .grid-highlight {
             padding-top: 1rem;
