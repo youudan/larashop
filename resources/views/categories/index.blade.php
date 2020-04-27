@@ -56,7 +56,7 @@
       <td>{{ $category->slug }}</td>
       <td>
         @if($category->image)
-        <img src="{{ asset('storage/'.$category->image) }}" width="70px"/>
+        <img src="{{ 'storage/'.$category->image }}" width="70px"/>
         @else
           N/A
         @endif
